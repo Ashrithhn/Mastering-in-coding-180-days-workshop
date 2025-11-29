@@ -46,3 +46,6 @@ public class Method {
     }
 
 }
+//overloaded methods can share same method name but differnt parameter
+//exaple addNum(int a, int b){}
+//an overloaded method look like addNum(int a ,int b, int c)
